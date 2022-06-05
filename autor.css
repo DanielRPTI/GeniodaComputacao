@@ -13,6 +13,10 @@ body {
   padding: 1rem;
   background-color: #333333;
 }
+h1 a {
+  text-decoration: none;
+  color: white;
+}
 img {
   width: 20rem;
   height: 40rem;

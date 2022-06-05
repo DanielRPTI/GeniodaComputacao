@@ -3,6 +3,7 @@ body {
   max-width: 100%;
   margin: auto;
   align-content: center;
+  background-color: #26262626;
 }
 
 .nav-bar h1 {
@@ -11,6 +12,10 @@ body {
   text-align: center;
   padding: 1rem;
   background-color: grey;
+}
+h1 a {
+  text-decoration: none;
+  color: white;
 }
 img {
   width: 20rem;
